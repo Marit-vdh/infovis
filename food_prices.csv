@@ -1,0 +1,212 @@
+Classification Name,Classification Code,Country Name,Country Code,Time,Time Code,Cost of an energy sufficient diet [CoCA],Cost of a nutrient adequate diet [CoNA],Cost of a healthy diet [CoHD],Cost of a healthy diet relative to the cost of sufficient energy from starchy staples [CoHD_CoCA],Cost of fruits [CoHD_f],Cost of vegetables [CoHD_v],Cost of starchy staples [CoHD_ss],Cost of animal-source foods [CoHD_asf],"Cost of legumes, nuts and seeds [CoHD_lns]",Cost of oils and fats [CoHD_of],Affordability of an energy sufficient diet: ratio of cost to the food poverty line [CoCA_pov],Affordability of a nutrient adequate diet: ratio of cost to the food poverty line [CoNA_pov],Affordability of a healthy diet: ratio of cost to the food poverty line [CoHD_pov],Affordability of an energy sufficient diet: ratio of cost to food expenditures [CoCA_fexp],Affordability of a nutrient adequate diet: ratio of cost to food expenditures [CoNA_fexp],Percent of the population who cannot afford sufficient calories [CoCA_headcount],Percent of the population who cannot afford nutrient adequacy [CoNA_headcount],Percent of the population who cannot afford a healthy diet [CoHD_headcount],Population [Pop]
+Food Prices for Nutrition 1.1,FPN 1.1,Albania,ALB,2020,YR2020,..,..,4.197,..,..,..,..,..,..,..,..,..,3.747,..,..,..,..,15.2,2837849
+Food Prices for Nutrition 1.1,FPN 1.1,Algeria,DZA,2020,YR2020,..,..,3.76,..,..,..,..,..,..,..,..,..,3.357,..,..,..,..,27.9,43451666
+Food Prices for Nutrition 1.1,FPN 1.1,Angola,AGO,2020,YR2020,..,..,4.534,..,..,..,..,..,..,..,..,..,4.048,..,..,..,..,84.7,33428486
+Food Prices for Nutrition 1.1,FPN 1.1,Anguilla,AIA,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Antigua and Barbuda,ATG,2020,YR2020,..,..,4.504,..,..,..,..,..,..,..,..,..,4.021,..,..,..,..,..,92664
+Food Prices for Nutrition 1.1,FPN 1.1,Argentina,ARG,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Armenia,ARM,2020,YR2020,..,..,3.247,..,..,..,..,..,..,..,..,..,2.899,..,..,..,..,39.5,2805608
+Food Prices for Nutrition 1.1,FPN 1.1,Aruba,ABW,2020,YR2020,..,..,4.138,..,..,..,..,..,..,..,..,..,3.695,..,..,..,..,..,106585
+Food Prices for Nutrition 1.1,FPN 1.1,Australia,AUS,2020,YR2020,..,..,2.561,..,..,..,..,..,..,..,..,..,2.287,..,..,..,..,0.7,25655289
+Food Prices for Nutrition 1.1,FPN 1.1,Austria,AUT,2020,YR2020,..,..,2.981,..,..,..,..,..,..,..,..,..,2.662,..,..,..,..,0.8,8916864
+Food Prices for Nutrition 1.1,FPN 1.1,Azerbaijan,AZE,2020,YR2020,..,..,2.533,..,..,..,..,..,..,..,..,..,2.262,..,..,..,..,0,10093121
+Food Prices for Nutrition 1.1,FPN 1.1,"Bahamas, The",BHS,2020,YR2020,..,..,4.488,..,..,..,..,..,..,..,..,..,4.007,..,..,..,..,..,406471
+Food Prices for Nutrition 1.1,FPN 1.1,Bahrain,BHR,2020,YR2020,..,..,3.835,..,..,..,..,..,..,..,..,..,3.424,..,..,..,..,..,1477469
+Food Prices for Nutrition 1.1,FPN 1.1,Bangladesh,BGD,2020,YR2020,..,..,3.064,..,..,..,..,..,..,..,..,..,2.736,..,..,..,..,70,167420951
+Food Prices for Nutrition 1.1,FPN 1.1,Barbados,BRB,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Belarus,BLR,2020,YR2020,..,..,3.31,..,..,..,..,..,..,..,..,..,2.955,..,..,..,..,1.4,9379952
+Food Prices for Nutrition 1.1,FPN 1.1,Belgium,BEL,2020,YR2020,..,..,3.13,..,..,..,..,..,..,..,..,..,2.795,..,..,..,..,0.2,11538604
+Food Prices for Nutrition 1.1,FPN 1.1,Belize,BLZ,2020,YR2020,..,..,2.14,..,..,..,..,..,..,..,..,..,1.911,..,..,..,..,43,394921
+Food Prices for Nutrition 1.1,FPN 1.1,Benin,BEN,2020,YR2020,..,..,3.707,..,..,..,..,..,..,..,..,..,3.31,..,..,..,..,82.4,12643123
+Food Prices for Nutrition 1.1,FPN 1.1,Bermuda,BMU,2020,YR2020,..,..,3.616,..,..,..,..,..,..,..,..,..,3.229,..,..,..,..,..,63893
+Food Prices for Nutrition 1.1,FPN 1.1,Bhutan,BTN,2020,YR2020,..,..,5.029,..,..,..,..,..,..,..,..,..,4.49,..,..,..,..,46.1,772506
+Food Prices for Nutrition 1.1,FPN 1.1,Bolivia,BOL,2020,YR2020,..,..,3.755,..,..,..,..,..,..,..,..,..,3.353,..,..,..,..,15.5,11936162
+Food Prices for Nutrition 1.1,FPN 1.1,Bonaire,BON,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Bosnia and Herzegovina,BIH,2020,YR2020,..,..,3.995,..,..,..,..,..,..,..,..,..,3.567,..,..,..,..,3.7,3318407
+Food Prices for Nutrition 1.1,FPN 1.1,Botswana,BWA,2020,YR2020,..,..,3.701,..,..,..,..,..,..,..,..,..,3.304,..,..,..,..,60.9,2546402
+Food Prices for Nutrition 1.1,FPN 1.1,Brazil,BRA,2020,YR2020,..,..,3.084,..,..,..,..,..,..,..,..,..,2.754,..,..,..,..,20.2,213196304
+Food Prices for Nutrition 1.1,FPN 1.1,British Virgin Islands,VGB,2020,YR2020,..,..,3.337,..,..,..,..,..,..,..,..,..,2.979,..,..,..,..,..,30910
+Food Prices for Nutrition 1.1,FPN 1.1,Brunei Darussalam,BRN,2020,YR2020,..,..,4.405,..,..,..,..,..,..,..,..,..,3.933,..,..,..,..,..,441725
+Food Prices for Nutrition 1.1,FPN 1.1,Bulgaria,BGR,2020,YR2020,..,..,4.108,..,..,..,..,..,..,..,..,..,3.668,..,..,..,..,8.2,6934015
+Food Prices for Nutrition 1.1,FPN 1.1,Burkina Faso,BFA,2020,YR2020,..,..,3.345,..,..,..,..,..,..,..,..,..,2.987,..,..,..,..,77.4,21522626
+Food Prices for Nutrition 1.1,FPN 1.1,Burundi,BDI,2020,YR2020,..,..,2.943,..,..,..,..,..,..,..,..,..,2.628,..,..,..,..,95.7,12220227
+Food Prices for Nutrition 1.1,FPN 1.1,Cabo Verde,CPV,2020,YR2020,..,..,3.563,..,..,..,..,..,..,..,..,..,3.181,..,..,..,..,40.6,582640
+Food Prices for Nutrition 1.1,FPN 1.1,Cambodia,KHM,2020,YR2020,..,..,3.888,..,..,..,..,..,..,..,..,..,3.471,..,..,..,..,..,16396860
+Food Prices for Nutrition 1.1,FPN 1.1,Cameroon,CMR,2020,YR2020,..,..,2.808,..,..,..,..,..,..,..,..,..,2.507,..,..,..,..,58.5,26491087
+Food Prices for Nutrition 1.1,FPN 1.1,Canada,CAN,2020,YR2020,..,..,3.008,..,..,..,..,..,..,..,..,..,2.686,..,..,..,..,0.7,38037204
+Food Prices for Nutrition 1.1,FPN 1.1,Cayman Islands,CYM,2020,YR2020,..,..,2.765,..,..,..,..,..,..,..,..,..,2.469,..,..,..,..,..,67311
+Food Prices for Nutrition 1.1,FPN 1.1,Central African Republic,CAF,2020,YR2020,..,..,3.615,..,..,..,..,..,..,..,..,..,3.228,..,..,..,..,93.9,5343020
+Food Prices for Nutrition 1.1,FPN 1.1,Chad,TCD,2020,YR2020,..,..,2.821,..,..,..,..,..,..,..,..,..,2.519,..,..,..,..,80.8,16644701
+Food Prices for Nutrition 1.1,FPN 1.1,Chile,CHL,2020,YR2020,..,..,3.402,..,..,..,..,..,..,..,..,..,3.038,..,..,..,..,5,19300315
+Food Prices for Nutrition 1.1,FPN 1.1,China,CHN,2020,YR2020,..,..,2.983,..,..,..,..,..,..,..,..,..,2.663,..,..,..,..,14.3,1411100000
+Food Prices for Nutrition 1.1,FPN 1.1,Colombia,COL,2020,YR2020,..,..,3.065,..,..,..,..,..,..,..,..,..,2.737,..,..,..,..,26.5,50930662
+Food Prices for Nutrition 1.1,FPN 1.1,Comoros,COM,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,"Congo, Dem. Rep.",COD,2020,YR2020,..,..,2.077,..,..,..,..,..,..,..,..,..,1.854,..,..,..,..,84.8,92853164
+Food Prices for Nutrition 1.1,FPN 1.1,"Congo, Rep.",COG,2020,YR2020,..,..,3.422,..,..,..,..,..,..,..,..,..,3.055,..,..,..,..,90.3,5702174
+Food Prices for Nutrition 1.1,FPN 1.1,Costa Rica,CRI,2020,YR2020,..,..,4.11,..,..,..,..,..,..,..,..,..,3.67,..,..,..,..,16.3,5123105
+Food Prices for Nutrition 1.1,FPN 1.1,Côte d'Ivoire,CIV,2020,YR2020,..,..,3.61,..,..,..,..,..,..,..,..,..,3.223,..,..,..,..,72.6,26811790
+Food Prices for Nutrition 1.1,FPN 1.1,Croatia,HRV,2020,YR2020,..,..,4.277,..,..,..,..,..,..,..,..,..,3.819,..,..,..,..,3.4,4047680
+Food Prices for Nutrition 1.1,FPN 1.1,Curacao,CUW,2020,YR2020,..,..,3.328,..,..,..,..,..,..,..,..,..,2.971,..,..,..,..,..,154947
+Food Prices for Nutrition 1.1,FPN 1.1,Cyprus,CYP,2020,YR2020,..,..,2.969,..,..,..,..,..,..,..,..,..,2.651,..,..,..,..,0.3,1237537
+Food Prices for Nutrition 1.1,FPN 1.1,Czech Republic,CZE,2020,YR2020,..,..,2.966,..,..,..,..,..,..,..,..,..,2.648,..,..,..,..,0.1,10697858
+Food Prices for Nutrition 1.1,FPN 1.1,Denmark,DNK,2020,YR2020,..,..,2.544,..,..,..,..,..,..,..,..,..,2.271,..,..,..,..,0.4,5831404
+Food Prices for Nutrition 1.1,FPN 1.1,Djibouti,DJI,2020,YR2020,..,..,3.112,..,..,..,..,..,..,..,..,..,2.779,..,..,..,..,65.2,1090156
+Food Prices for Nutrition 1.1,FPN 1.1,Dominica,DMA,2020,YR2020,..,..,4.345,..,..,..,..,..,..,..,..,..,3.879,..,..,..,..,..,71995
+Food Prices for Nutrition 1.1,FPN 1.1,Dominican Republic,DOM,2020,YR2020,..,..,3.884,..,..,..,..,..,..,..,..,..,3.468,..,..,..,..,21.6,10999664
+Food Prices for Nutrition 1.1,FPN 1.1,East Asia & Pacific,EAS,2020,YR2020,..,..,4.054,..,..,..,..,..,..,..,..,..,..,..,..,..,..,24.5,2300278763
+Food Prices for Nutrition 1.1,FPN 1.1,Ecuador,ECU,2020,YR2020,..,..,2.928,..,..,..,..,..,..,..,..,..,2.614,..,..,..,..,20.2,17588595
+Food Prices for Nutrition 1.1,FPN 1.1,"Egypt, Arab Rep.",EGY,2020,YR2020,..,..,3.369,..,..,..,..,..,..,..,..,..,3.008,..,..,..,..,63.9,107465134
+Food Prices for Nutrition 1.1,FPN 1.1,El Salvador,SLV,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Equatorial Guinea,GNQ,2020,YR2020,..,..,3.676,..,..,..,..,..,..,..,..,..,3.282,..,..,..,..,..,1596049
+Food Prices for Nutrition 1.1,FPN 1.1,Estonia,EST,2020,YR2020,..,..,3.308,..,..,..,..,..,..,..,..,..,2.954,..,..,..,..,1.3,1329522
+Food Prices for Nutrition 1.1,FPN 1.1,Eswatini,SWZ,2020,YR2020,..,..,3.391,..,..,..,..,..,..,..,..,..,3.028,..,..,..,..,75,1180655
+Food Prices for Nutrition 1.1,FPN 1.1,Ethiopia,ETH,2020,YR2020,..,..,3.366,..,..,..,..,..,..,..,..,..,3.005,..,..,..,..,83.7,117190911
+Food Prices for Nutrition 1.1,FPN 1.1,Europe & Central Asia,ECS,2020,YR2020,..,..,3.139,..,..,..,..,..,..,..,..,..,..,..,..,..,..,3.4,832392458
+Food Prices for Nutrition 1.1,FPN 1.1,Fiji,FJI,2020,YR2020,..,..,3.914,..,..,..,..,..,..,..,..,..,3.495,..,..,..,..,53.2,920422
+Food Prices for Nutrition 1.1,FPN 1.1,Finland,FIN,2020,YR2020,..,..,2.712,..,..,..,..,..,..,..,..,..,2.421,..,..,..,..,0.1,5529543
+Food Prices for Nutrition 1.1,FPN 1.1,France,FRA,2020,YR2020,..,..,3.219,..,..,..,..,..,..,..,..,..,2.874,..,..,..,..,0.1,67571107
+Food Prices for Nutrition 1.1,FPN 1.1,Gabon,GAB,2020,YR2020,..,..,3.552,..,..,..,..,..,..,..,..,..,3.171,..,..,..,..,28.6,2292573
+Food Prices for Nutrition 1.1,FPN 1.1,"Gambia, The",GMB,2020,YR2020,..,..,3.11,..,..,..,..,..,..,..,..,..,2.777,..,..,..,..,67,2573995
+Food Prices for Nutrition 1.1,FPN 1.1,Germany,DEU,2020,YR2020,..,..,3.025,..,..,..,..,..,..,..,..,..,2.701,..,..,..,..,0.2,83160871
+Food Prices for Nutrition 1.1,FPN 1.1,Ghana,GHA,2020,YR2020,..,..,4.033,..,..,..,..,..,..,..,..,..,3.601,..,..,..,..,77.5,32180401
+Food Prices for Nutrition 1.1,FPN 1.1,Greece,GRC,2020,YR2020,..,..,3.13,..,..,..,..,..,..,..,..,..,2.795,..,..,..,..,2.8,10698599
+Food Prices for Nutrition 1.1,FPN 1.1,Grenada,GRD,2020,YR2020,..,..,5.796,..,..,..,..,..,..,..,..,..,5.175,..,..,..,..,..,123663
+Food Prices for Nutrition 1.1,FPN 1.1,Guinea,GIN,2020,YR2020,..,..,4.127,..,..,..,..,..,..,..,..,..,3.685,..,..,..,..,89.5,13205153
+Food Prices for Nutrition 1.1,FPN 1.1,Guinea-Bissau,GNB,2020,YR2020,..,..,3.505,..,..,..,..,..,..,..,..,..,3.129,..,..,..,..,84.5,2015828
+Food Prices for Nutrition 1.1,FPN 1.1,Guyana,GUY,2020,YR2020,..,..,4.889,..,..,..,..,..,..,..,..,..,4.365,..,..,..,..,41.4,797202
+Food Prices for Nutrition 1.1,FPN 1.1,Haiti,HTI,2020,YR2020,..,..,4.49,..,..,..,..,..,..,..,..,..,4.009,..,..,..,..,88.3,11306801
+Food Prices for Nutrition 1.1,FPN 1.1,High income,HIC,2020,YR2020,..,..,3.354,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1.4,1187991911
+Food Prices for Nutrition 1.1,FPN 1.1,Honduras,HND,2020,YR2020,..,..,3.486,..,..,..,..,..,..,..,..,..,3.113,..,..,..,..,46.9,10121763
+Food Prices for Nutrition 1.1,FPN 1.1,"Hong Kong SAR, China",HKG,2020,YR2020,..,..,4.513,..,..,..,..,..,..,..,..,..,4.029,..,..,..,..,..,7481000
+Food Prices for Nutrition 1.1,FPN 1.1,Hungary,HUN,2020,YR2020,..,..,3.488,..,..,..,..,..,..,..,..,..,3.114,..,..,..,..,2.2,9750149
+Food Prices for Nutrition 1.1,FPN 1.1,Iceland,ISL,2020,YR2020,..,..,2.414,..,..,..,..,..,..,..,..,..,2.155,..,..,..,..,0,366463
+Food Prices for Nutrition 1.1,FPN 1.1,India,IND,2020,YR2020,..,..,2.97,..,..,..,..,..,..,..,..,..,2.652,..,..,..,..,72.2,1396387127
+Food Prices for Nutrition 1.1,FPN 1.1,Indonesia,IDN,2020,YR2020,..,..,4.466,..,..,..,..,..,..,..,..,..,3.988,..,..,..,..,71.3,271857970
+Food Prices for Nutrition 1.1,FPN 1.1,"Iran, Islamic Rep.",IRN,2020,YR2020,..,..,3.55,..,..,..,..,..,..,..,..,..,3.17,..,..,..,..,24.1,87290193
+Food Prices for Nutrition 1.1,FPN 1.1,Iraq,IRQ,2020,YR2020,..,..,3.54,..,..,..,..,..,..,..,..,..,3.161,..,..,..,..,15,42556984
+Food Prices for Nutrition 1.1,FPN 1.1,Ireland,IRL,2020,YR2020,..,..,2.225,..,..,..,..,..,..,..,..,..,1.987,..,..,..,..,0.1,4985382
+Food Prices for Nutrition 1.1,FPN 1.1,Israel,ISR,2020,YR2020,..,..,2.492,..,..,..,..,..,..,..,..,..,2.225,..,..,..,..,1.2,9215100
+Food Prices for Nutrition 1.1,FPN 1.1,Italy,ITA,2020,YR2020,..,..,3.144,..,..,..,..,..,..,..,..,..,2.807,..,..,..,..,2.8,59438851
+Food Prices for Nutrition 1.1,FPN 1.1,Jamaica,JAM,2020,YR2020,..,..,6.681,..,..,..,..,..,..,..,..,..,5.965,..,..,..,..,60.7,2820436
+Food Prices for Nutrition 1.1,FPN 1.1,Japan,JPN,2020,YR2020,..,..,5.808,..,..,..,..,..,..,..,..,..,5.186,..,..,..,..,2.7,126261000
+Food Prices for Nutrition 1.1,FPN 1.1,Jordan,JOR,2020,YR2020,..,..,3.614,..,..,..,..,..,..,..,..,..,3.227,..,..,..,..,3.6,10928721
+Food Prices for Nutrition 1.1,FPN 1.1,Kazakhstan,KAZ,2020,YR2020,..,..,2.657,..,..,..,..,..,..,..,..,..,2.372,..,..,..,..,1.9,18755666
+Food Prices for Nutrition 1.1,FPN 1.1,Kenya,KEN,2020,YR2020,..,..,2.968,..,..,..,..,..,..,..,..,..,2.65,..,..,..,..,74.5,51985780
+Food Prices for Nutrition 1.1,FPN 1.1,"Korea, Rep.",KOR,2020,YR2020,..,..,5.183,..,..,..,..,..,..,..,..,..,4.628,..,..,..,..,2.2,51836239
+Food Prices for Nutrition 1.1,FPN 1.1,Kuwait,KWT,2020,YR2020,..,..,3.606,..,..,..,..,..,..,..,..,..,3.22,..,..,..,..,..,4360444
+Food Prices for Nutrition 1.1,FPN 1.1,Kyrgyz Republic,KGZ,2020,YR2020,..,..,3.18,..,..,..,..,..,..,..,..,..,2.839,..,..,..,..,49.3,6579900
+Food Prices for Nutrition 1.1,FPN 1.1,Lao PDR,LAO,2020,YR2020,..,..,4.141,..,..,..,..,..,..,..,..,..,3.697,..,..,..,..,74.3,7319399
+Food Prices for Nutrition 1.1,FPN 1.1,Latin America & Caribbean,LCN,2020,YR2020,..,..,3.894,..,..,..,..,..,..,..,..,..,..,..,..,..,..,22.1,583891678
+Food Prices for Nutrition 1.1,FPN 1.1,Latvia,LVA,2020,YR2020,..,..,3.24,..,..,..,..,..,..,..,..,..,2.893,..,..,..,..,1.8,1900449
+Food Prices for Nutrition 1.1,FPN 1.1,Lesotho,LSO,2020,YR2020,..,..,4.266,..,..,..,..,..,..,..,..,..,3.809,..,..,..,..,86,2254100
+Food Prices for Nutrition 1.1,FPN 1.1,Liberia,LBR,2020,YR2020,..,..,3.903,..,..,..,..,..,..,..,..,..,3.485,..,..,..,..,91.6,5087584
+Food Prices for Nutrition 1.1,FPN 1.1,Lithuania,LTU,2020,YR2020,..,..,3.099,..,..,..,..,..,..,..,..,..,2.767,..,..,..,..,1.2,2794885
+Food Prices for Nutrition 1.1,FPN 1.1,Low income,LIC,2020,YR2020,..,..,3.202,..,..,..,..,..,..,..,..,..,..,..,..,..,..,81.2,523220794
+Food Prices for Nutrition 1.1,FPN 1.1,Lower middle income,LMC,2020,YR2020,..,..,3.701,..,..,..,..,..,..,..,..,..,..,..,..,..,..,67.4,3272808843
+Food Prices for Nutrition 1.1,FPN 1.1,Luxembourg,LUX,2020,YR2020,..,..,2.661,..,..,..,..,..,..,..,..,..,2.376,..,..,..,..,0.1,630419
+Food Prices for Nutrition 1.1,FPN 1.1,Madagascar,MDG,2020,YR2020,..,..,3.181,..,..,..,..,..,..,..,..,..,2.84,..,..,..,..,97.1,28225177
+Food Prices for Nutrition 1.1,FPN 1.1,Malawi,MWI,2020,YR2020,..,..,3.149,..,..,..,..,..,..,..,..,..,2.812,..,..,..,..,95.7,19377061
+Food Prices for Nutrition 1.1,FPN 1.1,Malaysia,MYS,2020,YR2020,..,..,3.538,..,..,..,..,..,..,..,..,..,3.159,..,..,..,..,2,33199993
+Food Prices for Nutrition 1.1,FPN 1.1,Maldives,MDV,2020,YR2020,..,..,3.861,..,..,..,..,..,..,..,..,..,3.447,..,..,..,..,1.3,514438
+Food Prices for Nutrition 1.1,FPN 1.1,Mali,MLI,2020,YR2020,..,..,3.053,..,..,..,..,..,..,..,..,..,2.726,..,..,..,..,70.3,21224040
+Food Prices for Nutrition 1.1,FPN 1.1,Malta,MLT,2020,YR2020,..,..,3.769,..,..,..,..,..,..,..,..,..,3.365,..,..,..,..,0.7,515332
+Food Prices for Nutrition 1.1,FPN 1.1,Mauritania,MRT,2020,YR2020,..,..,3.692,..,..,..,..,..,..,..,..,..,3.296,..,..,..,..,60.1,4498604
+Food Prices for Nutrition 1.1,FPN 1.1,Mauritius,MUS,2020,YR2020,..,..,3.604,..,..,..,..,..,..,..,..,..,3.218,..,..,..,..,9.6,1265740
+Food Prices for Nutrition 1.1,FPN 1.1,Mexico,MEX,2020,YR2020,..,..,3.293,..,..,..,..,..,..,..,..,..,2.94,..,..,..,..,24.5,125998302
+Food Prices for Nutrition 1.1,FPN 1.1,Middle East & North Africa,MEA,2020,YR2020,..,..,3.37,..,..,..,..,..,..,..,..,..,..,..,..,..,..,32.5,414593143
+Food Prices for Nutrition 1.1,FPN 1.1,Moldova,MDA,2020,YR2020,..,..,2.814,..,..,..,..,..,..,..,..,..,2.513,..,..,..,..,3.9,2635130
+Food Prices for Nutrition 1.1,FPN 1.1,Mongolia,MNG,2020,YR2020,..,..,5.103,..,..,..,..,..,..,..,..,..,4.556,..,..,..,..,54,3294335
+Food Prices for Nutrition 1.1,FPN 1.1,Montenegro,MNE,2020,YR2020,..,..,3.494,..,..,..,..,..,..,..,..,..,3.12,..,..,..,..,16,621306
+Food Prices for Nutrition 1.1,FPN 1.1,Montserrat,MSR,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Morocco,MAR,2020,YR2020,..,..,2.797,..,..,..,..,..,..,..,..,..,2.497,..,..,..,..,18.9,36688772
+Food Prices for Nutrition 1.1,FPN 1.1,Mozambique,MOZ,2020,YR2020,..,..,3.228,..,..,..,..,..,..,..,..,..,2.882,..,..,..,..,91.3,31178239
+Food Prices for Nutrition 1.1,FPN 1.1,Myanmar,MMR,2020,YR2020,..,..,4.186,..,..,..,..,..,..,..,..,..,3.738,..,..,..,..,68.2,53423198
+Food Prices for Nutrition 1.1,FPN 1.1,Namibia,NAM,2020,YR2020,..,..,3.52,..,..,..,..,..,..,..,..,..,3.143,..,..,..,..,57.8,2489098
+Food Prices for Nutrition 1.1,FPN 1.1,Nepal,NPL,2020,YR2020,..,..,4.362,..,..,..,..,..,..,..,..,..,3.895,..,..,..,..,75.5,29348627
+Food Prices for Nutrition 1.1,FPN 1.1,Netherlands,NLD,2020,YR2020,..,..,2.991,..,..,..,..,..,..,..,..,..,2.671,..,..,..,..,0.2,17441500
+Food Prices for Nutrition 1.1,FPN 1.1,New Zealand,NZL,2020,YR2020,..,..,2.723,..,..,..,..,..,..,..,..,..,2.431,..,..,..,..,..,5090200
+Food Prices for Nutrition 1.1,FPN 1.1,Nicaragua,NIC,2020,YR2020,..,..,3.335,..,..,..,..,..,..,..,..,..,2.978,..,..,..,..,35.5,6755895
+Food Prices for Nutrition 1.1,FPN 1.1,Niger,NER,2020,YR2020,..,..,2.859,..,..,..,..,..,..,..,..,..,2.553,..,..,..,..,90.7,24333639
+Food Prices for Nutrition 1.1,FPN 1.1,Nigeria,NGA,2020,YR2020,..,..,4.093,..,..,..,..,..,..,..,..,..,3.654,..,..,..,..,92.9,208327405
+Food Prices for Nutrition 1.1,FPN 1.1,North America,NAC,2020,YR2020,..,..,3.336,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1.4,369602177
+Food Prices for Nutrition 1.1,FPN 1.1,North Macedonia,MKD,2020,YR2020,..,..,3.427,..,..,..,..,..,..,..,..,..,3.06,..,..,..,..,16.4,2072531
+Food Prices for Nutrition 1.1,FPN 1.1,Norway,NOR,2020,YR2020,..,..,3.471,..,..,..,..,..,..,..,..,..,3.099,..,..,..,..,0.4,5379475
+Food Prices for Nutrition 1.1,FPN 1.1,Oman,OMN,2020,YR2020,..,..,3.021,..,..,..,..,..,..,..,..,..,2.697,..,..,..,..,..,4543399
+Food Prices for Nutrition 1.1,FPN 1.1,Pakistan,PAK,2020,YR2020,..,..,3.685,..,..,..,..,..,..,..,..,..,3.29,..,..,..,..,84.1,227196741
+Food Prices for Nutrition 1.1,FPN 1.1,Panama,PAN,2020,YR2020,..,..,4.476,..,..,..,..,..,..,..,..,..,3.996,..,..,..,..,15.5,4294396
+Food Prices for Nutrition 1.1,FPN 1.1,Paraguay,PRY,2020,YR2020,..,..,3.543,..,..,..,..,..,..,..,..,..,3.163,..,..,..,..,17.3,6618695
+Food Prices for Nutrition 1.1,FPN 1.1,Peru,PER,2020,YR2020,..,..,3.285,..,..,..,..,..,..,..,..,..,2.933,..,..,..,..,23.3,33304756
+Food Prices for Nutrition 1.1,FPN 1.1,Philippines,PHL,2020,YR2020,..,..,4.108,..,..,..,..,..,..,..,..,..,3.668,..,..,..,..,67.6,112190977
+Food Prices for Nutrition 1.1,FPN 1.1,Poland,POL,2020,YR2020,..,..,3.17,..,..,..,..,..,..,..,..,..,2.83,..,..,..,..,1,37899070
+Food Prices for Nutrition 1.1,FPN 1.1,Portugal,PRT,2020,YR2020,..,..,2.656,..,..,..,..,..,..,..,..,..,2.371,..,..,..,..,0.5,10297081
+Food Prices for Nutrition 1.1,FPN 1.1,Qatar,QAT,2020,YR2020,..,..,2.577,..,..,..,..,..,..,..,..,..,2.301,..,..,..,..,..,2760385
+Food Prices for Nutrition 1.1,FPN 1.1,Romania,ROU,2020,YR2020,..,..,3.191,..,..,..,..,..,..,..,..,..,2.849,..,..,..,..,8.9,19265250
+Food Prices for Nutrition 1.1,FPN 1.1,Russian Federation,RUS,2020,YR2020,..,..,3.42,..,..,..,..,..,..,..,..,..,3.054,..,..,..,..,2.9,144073139
+Food Prices for Nutrition 1.1,FPN 1.1,Rwanda,RWA,2020,YR2020,..,..,2.698,..,..,..,..,..,..,..,..,..,2.409,..,..,..,..,83.6,13146362
+Food Prices for Nutrition 1.1,FPN 1.1,Sao Tome and Principe,STP,2020,YR2020,..,..,3.551,..,..,..,..,..,..,..,..,..,3.171,..,..,..,..,77.1,218641
+Food Prices for Nutrition 1.1,FPN 1.1,Saudi Arabia,SAU,2020,YR2020,..,..,4.148,..,..,..,..,..,..,..,..,..,3.704,..,..,..,..,..,35997107
+Food Prices for Nutrition 1.1,FPN 1.1,Senegal,SEN,2020,YR2020,..,..,2.33,..,..,..,..,..,..,..,..,..,2.08,..,..,..,..,46.6,16436120
+Food Prices for Nutrition 1.1,FPN 1.1,Serbia,SRB,2020,YR2020,..,..,4.246,..,..,..,..,..,..,..,..,..,3.791,..,..,..,..,14.8,6899126
+Food Prices for Nutrition 1.1,FPN 1.1,Seychelles,SYC,2020,YR2020,..,..,3.801,..,..,..,..,..,..,..,..,..,3.394,..,..,..,..,6.8,98462
+Food Prices for Nutrition 1.1,FPN 1.1,Sierra Leone,SLE,2020,YR2020,..,..,2.893,..,..,..,..,..,..,..,..,..,2.583,..,..,..,..,81.3,8233970
+Food Prices for Nutrition 1.1,FPN 1.1,Singapore,SGP,2020,YR2020,..,..,3.064,..,..,..,..,..,..,..,..,..,2.736,..,..,..,..,..,5685807
+Food Prices for Nutrition 1.1,FPN 1.1,Sint Maarten (Dutch part),SXM,2020,YR2020,..,..,5.36,..,..,..,..,..,..,..,..,..,4.786,..,..,..,..,..,42310
+Food Prices for Nutrition 1.1,FPN 1.1,Slovak Republic,SVK,2020,YR2020,..,..,3.15,..,..,..,..,..,..,..,..,..,2.813,..,..,..,..,1.3,5458827
+Food Prices for Nutrition 1.1,FPN 1.1,Slovenia,SVN,2020,YR2020,..,..,3.07,..,..,..,..,..,..,..,..,..,2.741,..,..,..,..,0.1,2102419
+Food Prices for Nutrition 1.1,FPN 1.1,South Africa,ZAF,2020,YR2020,..,..,4.298,..,..,..,..,..,..,..,..,..,3.838,..,..,..,..,65.8,58801927
+Food Prices for Nutrition 1.1,FPN 1.1,South Asia,SAS,2020,YR2020,..,..,3.842,..,..,..,..,..,..,..,..,..,..,..,..,..,..,73.2,1843559390
+Food Prices for Nutrition 1.1,FPN 1.1,Spain,ESP,2020,YR2020,..,..,2.838,..,..,..,..,..,..,..,..,..,2.534,..,..,..,..,1.8,47365655
+Food Prices for Nutrition 1.1,FPN 1.1,Sri Lanka,LKA,2020,YR2020,..,..,3.923,..,..,..,..,..,..,..,..,..,3.503,..,..,..,..,50.4,21919000
+Food Prices for Nutrition 1.1,FPN 1.1,St. Kitts and Nevis,KNA,2020,YR2020,..,..,3.405,..,..,..,..,..,..,..,..,..,3.04,..,..,..,..,..,47642
+Food Prices for Nutrition 1.1,FPN 1.1,St. Lucia,LCA,2020,YR2020,..,..,3.594,..,..,..,..,..,..,..,..,..,3.209,..,..,..,..,21.4,179237
+Food Prices for Nutrition 1.1,FPN 1.1,St. Vincent and the Grenadines,VCT,2020,YR2020,..,..,4.454,..,..,..,..,..,..,..,..,..,3.977,..,..,..,..,..,104632
+Food Prices for Nutrition 1.1,FPN 1.1,Sub-Saharan Africa,SSF,2020,YR2020,..,..,3.474,..,..,..,..,..,..,..,..,..,..,..,..,..,..,83.4,1111353950
+Food Prices for Nutrition 1.1,FPN 1.1,Sudan,SDN,2020,YR2020,..,..,4.308,..,..,..,..,..,..,..,..,..,3.846,..,..,..,..,92.7,44440486
+Food Prices for Nutrition 1.1,FPN 1.1,Suriname,SUR,2020,YR2020,..,..,5.739,..,..,..,..,..,..,..,..,..,5.124,..,..,..,..,45.2,607065
+Food Prices for Nutrition 1.1,FPN 1.1,Sweden,SWE,2020,YR2020,..,..,3.339,..,..,..,..,..,..,..,..,..,2.981,..,..,..,..,0.7,10353442
+Food Prices for Nutrition 1.1,FPN 1.1,Switzerland,CHE,2020,YR2020,..,..,2.659,..,..,..,..,..,..,..,..,..,2.374,..,..,..,..,0,8638167
+Food Prices for Nutrition 1.1,FPN 1.1,"Taiwan, China",TWN,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Tajikistan,TJK,2020,YR2020,..,..,3.48,..,..,..,..,..,..,..,..,..,3.107,..,..,..,..,49.4,9543207
+Food Prices for Nutrition 1.1,FPN 1.1,Tanzania,TZA,2020,YR2020,..,..,2.736,..,..,..,..,..,..,..,..,..,2.443,..,..,..,..,85,61704518
+Food Prices for Nutrition 1.1,FPN 1.1,Thailand,THA,2020,YR2020,..,..,4.321,..,..,..,..,..,..,..,..,..,3.858,..,..,..,..,20.3,71475664
+Food Prices for Nutrition 1.1,FPN 1.1,Togo,TGO,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Food Prices for Nutrition 1.1,FPN 1.1,Trinidad and Tobago,TTO,2020,YR2020,..,..,4.224,..,..,..,..,..,..,..,..,..,3.771,..,..,..,..,7.7,1518147
+Food Prices for Nutrition 1.1,FPN 1.1,Tunisia,TUN,2020,YR2020,..,..,3.639,..,..,..,..,..,..,..,..,..,3.249,..,..,..,..,14.5,12161723
+Food Prices for Nutrition 1.1,FPN 1.1,Türkiye,TUR,2020,YR2020,..,..,3.029,..,..,..,..,..,..,..,..,..,2.704,..,..,..,..,7.6,84135428
+Food Prices for Nutrition 1.1,FPN 1.1,Turks and Caicos Islands,TCA,2020,YR2020,..,..,3.095,..,..,..,..,..,..,..,..,..,2.763,..,..,..,..,..,44276
+Food Prices for Nutrition 1.1,FPN 1.1,Uganda,UGA,2020,YR2020,..,..,2.658,..,..,..,..,..,..,..,..,..,2.373,..,..,..,..,81.7,44404611
+Food Prices for Nutrition 1.1,FPN 1.1,United Arab Emirates,ARE,2020,YR2020,..,..,3.111,..,..,..,..,..,..,..,..,..,2.778,..,..,..,..,0,9287289
+Food Prices for Nutrition 1.1,FPN 1.1,United Kingdom,GBR,2020,YR2020,..,..,1.912,..,..,..,..,..,..,..,..,..,1.707,..,..,..,..,0.5,67081000
+Food Prices for Nutrition 1.1,FPN 1.1,United States,USA,2020,YR2020,..,..,3.383,..,..,..,..,..,..,..,..,..,3.021,..,..,..,..,1.5,331501080
+Food Prices for Nutrition 1.1,FPN 1.1,Upper middle income,UMC,2020,YR2020,..,..,3.762,..,..,..,..,..,..,..,..,..,..,..,..,..,..,15.7,2471650011
+Food Prices for Nutrition 1.1,FPN 1.1,Uruguay,URY,2020,YR2020,..,..,3.414,..,..,..,..,..,..,..,..,..,3.048,..,..,..,..,3.7,3429086
+Food Prices for Nutrition 1.1,FPN 1.1,Vietnam,VNM,2020,YR2020,..,..,4.072,..,..,..,..,..,..,..,..,..,3.636,..,..,..,..,23.1,96648685
+Food Prices for Nutrition 1.1,FPN 1.1,West Bank and Gaza,PSE,2020,YR2020,..,..,3.356,..,..,..,..,..,..,..,..,..,2.996,..,..,..,..,15.1,4803269
+Food Prices for Nutrition 1.1,FPN 1.1,World,WLD,2020,YR2020,..,..,3.537,..,..,..,..,..,..,..,..,..,..,..,..,..,..,41.9,7455671559
+Food Prices for Nutrition 1.1,FPN 1.1,Zambia,ZMB,2020,YR2020,..,..,3.3,..,..,..,..,..,..,..,..,..,2.946,..,..,..,..,88.6,18927715
+Food Prices for Nutrition 1.1,FPN 1.1,Zimbabwe,ZWE,2020,YR2020,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: Food Prices for Nutrition,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 03/30/2023,,,,,,,,,,,,,,,,,,,,,,,,
+Code,Indicator Name,Long definition,Source
+CoCA,Cost of an energy sufficient diet,"Cost of the least expensive starchy staple for energy balance, in 2017 PPP$/person/day, for a representative person at 2330 kcal/day. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoNA,Cost of a nutrient adequate diet,"Cost of the least expensive locally-available foods for nutrient adequacy, in 2017 PPP$/person/day, for a representative person within upper and lower bounds for 23 essential macro- and micronutrients plus energy balance at 2330 kcal/day. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD,Cost of a healthy diet,"The cost of a healthy diet indicator is the cost of purchasing the least expensive locally available foods to meet requirements for energy and food-based dietary guidelines (FBDGs), in current PPP$/person/day, for a representative person within energy balance at 2330 kcal/day. Data available for 2017, 2018, 2019 and 2020. PPPs for 2018 and/or 2019 and/or 2020 are imputed by the Food and Agriculture Organization of the United Nations when not available in the World Development Indicators database, for the given countries of Angola, Aruba, Belize, Bermuda, Cayman Islands, Curaçao, British Virgin Islands, Democratic Republic of the Congo, Eswatini, Ethiopia, Guinea-Bissau, Iran (Islamic Republic of), Liberia, Myanmar, Niger, Nigeria, Sao Tome and Principe, Sint Maarten, Suriname and Tajikistan.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_CoCA,Cost of a healthy diet relative to the cost of sufficient energy from starchy staples,Ratio between the cost of a healthy diet (CoHD) that meets requirements for energy and food-based dietary guidelines (FBDGs) and the cost of caloric adequacy (CoCA) that uses only starchy staples to meet energy requirements. Data available for 2017.,"Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_f,Cost of fruits,"The cost of purchasing the least expensive locally available fruits to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Fruits are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_v,Cost of vegetables,"The cost of purchasing the least expensive locally available vegetables to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Vegetables are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_ss,Cost of starchy staples,"The cost of purchasing the least expensive locally available starchy staples to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Starchy staples are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_asf,Cost of animal-source foods,"The cost of purchasing the least expensive locally available animal-source foods to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Animal-source foods are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_lns,"Cost of legumes, nuts and seeds","The cost of purchasing the least expensive locally available legumes, nuts and seeds to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Legumes, nuts and seeds are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_of,Cost of oils and fats,"The cost of purchasing the least expensive locally available fats or oils to meet daily intake levels recommended in food-based dietary guidelines (FBDGs), in 2017 PPP$/person/day. Fats and oils are one of the six food groups within the Healthy Diet Basket. Data available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoCA_pov,Affordability of an energy sufficient diet: ratio of cost to the food poverty line,The ratio of the cost of an energy sufficient diet to the $1.12 food poverty line (52% of the international poverty line of 2.15/day in 2017 PPP$). Data available for 2017.,"Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoNA_pov,Affordability of a nutrient adequate diet: ratio of cost to the food poverty line,The ratio of the cost of a nutrient adequate diet to the $1.12 food poverty line (52% of the international poverty line of 2.15/day in 2017 PPP$). Data available for 2017.,"Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_pov,Affordability of a healthy diet: ratio of cost to the food poverty line,"The ratio of the cost of a healthy diet to the $1.12 food poverty line (52% of the international poverty line of 2.15/day in 2017 PPP$). Data available for 2017, 2018, 2019 and 2020.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoCA_fexp,Affordability of an energy sufficient diet: ratio of cost to food expenditures,The ratio of the cost of an energy sufficient diet to total food expenditure per capita per day from national accounts. Data available for 2017.,"Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoNA_fexp,Affordability of a nutrient adequate diet: ratio of cost to food expenditures,The ratio of the cost of a nutrient adequate diet to total food expenditure per capita per day from national accounts. Data available for 2017.,"Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoCA_headcount,Percent of the population unable to afford sufficient calories,"The indicator expresses the percentage of the total population unable to afford an energy sufficient diet. A healthy diet is considered unaffordable in a country when its cost exceeds 52 percent of household income. This percentage accounts for a portion of income that can be credibly reserved for food, based on observations that the population in low-income countries spend, on average, 52 percent of their income on food, as derived from the 2017 national accounts household expenditure data of the World Bank's International Comparison Programme (ICP). Income data are provided by the World Bank’s Poverty and Inequality Platform. A value of zero indicates a null or a small number rounded down at the current precision level. Data are currently available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoNA_headcount,Percent of the population unable to afford nutrient adequacy,"The indicator expresses the percentage of the total population unable to afford a nutrient adequate diet. A healthy diet is considered unaffordable in a country when its cost exceeds 52 percent of household income. This percentage accounts for a portion of income that can be credibly reserved for food, based on observations that the population in low-income countries spend, on average, 52 percent of their income on food, as derived from the 2017 national accounts household expenditure data of the World Bank's International Comparison Programme (ICP). Income data are provided by the World Bank’s Poverty and Inequality Platform. A value of zero indicates a null or a small number rounded down at the current precision level. Data are currently available for 2017.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+CoHD_headcount,Percent of the population unable to afford a healthy diet,"The indicator expresses the percentage of the total population unable to afford a healthy diet. A healthy diet is considered unaffordable in a country when its cost exceeds 52 percent of household income. This percentage accounts for a portion of income that can be credibly reserved for food, based on observations that the population in low-income countries spend, on average, 52 percent of their income on food, as derived from the 2017 national accounts household expenditure data of the World Bank's International Comparison Programme (ICP). Income data are provided by the World Bank’s Poverty and Inequality Platform. A value of zero indicates a null or a small number rounded down at the current precision level. Data are currently available for 2017, 2018, 2019 and 2020.","Adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO."
+Pop,Population,"Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.","(1) United Nations Population Division. World Population Prospects: 2022 Revision. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme."
